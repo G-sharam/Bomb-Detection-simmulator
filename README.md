@@ -1,1 +1,2 @@
 # Bomb-Detection-simmulator
+A bomb detection simulator in Java simulates the process of identifying potential explosive devices. It can involve features like scanning areas, detecting suspicious objects, and triggering alerts. The program could utilize algorithms to simulate sensor data, decision-making processes, and threat assessment. It's typically designed for training purposes, allowing users to practice bomb detection and disposal procedures in a controlled virtual environment.
